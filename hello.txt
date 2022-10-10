@@ -1,4 +1,3 @@
+<<<<<<< HEAD
 hello nini! hello git!22222222111
-222saasas
-222saasas
-222saasas
+hello nini! hello git!222222223333
